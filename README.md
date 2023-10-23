@@ -1,8 +1,5 @@
 # Hello-World
 Welcome to My GitHub Profile 👋
-GitHub followers
-GitHub stars
-GitHub forks
 
 About Me 🚀
 Hey there, I'm William Amiani, a passionate software developer on a journey of continuous learning and growth. As an aspiring software engineer, I'm dedicated to exploring the ever-evolving world of technology and building exciting projects.
